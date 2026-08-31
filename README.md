@@ -47,10 +47,6 @@ Um sistema completo de gerenciamento de relacionamento com clientes, desenvolvid
 ![MySQL](https://img.shields.io/badge/MySQL-Database%20Design-4479A1?style=flat-square&logo=mysql)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Interface%20Design-E34C26?style=flat-square&logo=html5)
 
-### **Ferramentas & Produtividade**
-![Microsoft Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git)
-
 ### **Soft Skills**
 - 🧠 Resolução de Problemas
 - ⚙️ Automação de Processos
